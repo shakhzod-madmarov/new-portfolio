@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/new-portfolio/static/css/main.5174607d.css",
-    "main.js": "/new-portfolio/static/js/main.0a4161b1.js",
+    "main.js": "/new-portfolio/static/js/main.13d8fe5d.js",
     "static/js/787.f0ba9cbb.chunk.js": "/new-portfolio/static/js/787.f0ba9cbb.chunk.js",
     "static/media/proj6.png": "/new-portfolio/static/media/proj6.75d4d53b80efe7f0a9d3.png",
     "static/media/proj7.png": "/new-portfolio/static/media/proj7.096215debdf8862e7d18.png",
@@ -11,17 +11,20 @@
     "static/media/version control.jpeg": "/new-portfolio/static/media/version control.01cc6ff3eaac59798900.jpeg",
     "static/media/proj3.png": "/new-portfolio/static/media/proj3.885bc37dc7787cd96e6b.png",
     "static/media/udemy-certificate.jpg": "/new-portfolio/static/media/udemy-certificate.9e7b541b86f1e4ec57b1.jpg",
+    "static/media/proj11.png": "/new-portfolio/static/media/proj11.61f04ddb10fb7c180a75.png",
     "static/media/proj8.png": "/new-portfolio/static/media/proj8.f4e2589ce871526a34a4.png",
+    "static/media/proj10.png": "/new-portfolio/static/media/proj10.ab1ff849d0408857bf0a.png",
+    "static/media/proj12.png": "/new-portfolio/static/media/proj12.2f441d03dae7d63d825b.png",
     "static/media/proj2.jpg": "/new-portfolio/static/media/proj2.43c0b5c9354d58cd8043.jpg",
     "static/media/proj4.jpg": "/new-portfolio/static/media/proj4.f301a8e9df823f4dde74.jpg",
     "static/media/proj5.png": "/new-portfolio/static/media/proj5.11b703a917eee0826a3d.png",
     "index.html": "/new-portfolio/index.html",
     "main.5174607d.css.map": "/new-portfolio/static/css/main.5174607d.css.map",
-    "main.0a4161b1.js.map": "/new-portfolio/static/js/main.0a4161b1.js.map",
+    "main.13d8fe5d.js.map": "/new-portfolio/static/js/main.13d8fe5d.js.map",
     "787.f0ba9cbb.chunk.js.map": "/new-portfolio/static/js/787.f0ba9cbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5174607d.css",
-    "static/js/main.0a4161b1.js"
+    "static/js/main.13d8fe5d.js"
   ]
 }
