@@ -7,6 +7,9 @@ import Proj6 from "../assets/proj6.png";
 import Proj7 from "../assets/proj7.png";
 import Proj8 from "../assets/proj8.png";
 import Proj9 from "../assets/proj9.png";
+import Proj10 from "../assets/proj10.png";
+import Proj11 from "../assets/proj11.png";
+import Proj12 from "../assets/proj12.png";
 
 export const ProjectList = [
   {
@@ -62,5 +65,23 @@ export const ProjectList = [
     image: Proj9,
     skills: "ReactJS, JSX, React-Carousel, HTML, CSS",
     link: "https://github.com/shakhzod-madmarov/medol",
+  },
+  {
+    name: "Wikipedia",
+    image: Proj10,
+    skills: "Vue3, Vite",
+    link: "https://github.com/shakhzod-madmarov/Wikipedia",
+  },
+  {
+    name: "Pokemon World",
+    image: Proj11,
+    skills: "Angular, TypeScript",
+    link: "https://github.com/shakhzod-madmarov/Pokemon-world",
+  },
+  {
+    name: "To Do List",
+    image: Proj12,
+    skills: "Html, Sass, BEM, JavaScript",
+    link: "https://github.com/shakhzod-madmarov/todo",
   },
 ];
